@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtreyoH
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python and SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter Id: @AtreyoH ...
 
